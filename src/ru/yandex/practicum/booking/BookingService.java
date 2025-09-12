@@ -1,4 +1,6 @@
-public class BedAndBreakfast { // сделайте класс общедоступным
+package ru.yandex.practicum.booking;
+
+public class BookingService { // сделайте класс общедоступным
 
     private Integer capacity = 10;
     private Boolean full = false;

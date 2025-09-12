@@ -1,3 +1,5 @@
+package ru.yandex.practicum.work;
+
 public class WorkCalculator {
 
     private int workingHours = 8;

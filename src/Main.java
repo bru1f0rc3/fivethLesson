@@ -1,7 +1,6 @@
 import ru.yandex.practicum.booking.BookingService;
 import ru.yandex.practicum.model.BankAccount;
 import ru.yandex.practicum.work.WorkCalculator;
-
 import java.util.Scanner;
 
 public class Main {

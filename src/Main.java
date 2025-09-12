@@ -1,4 +1,4 @@
-import ru.yandex.practicum.booking.BookingService;
+import ru.yandex.practicum.booking.BedAndBreakfast;
 import ru.yandex.practicum.model.BankAccount;
 import ru.yandex.practicum.work.WorkCalculator;
 import java.util.Scanner;
@@ -30,7 +30,7 @@ public class Main {
     }
 
     static void secondTask(){
-        BookingService hotel = new BookingService();
+        BedAndBreakfast hotel = new BedAndBreakfast();
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
